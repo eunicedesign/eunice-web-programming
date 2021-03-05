@@ -1,0 +1,29 @@
+
+
+body {
+    font-family: 'Chivo', sans-serif;
+    font-size: 10px
+    font-weight: 400;
+    font-style: regular;
+
+}
+
+h1 {
+    color: pink;
+    font-size: 50px;
+}
+
+footer {
+        color: pink;
+        font-size: 30px; 
+}
+
+p {
+    font-size: 20px;
+}
+div {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
